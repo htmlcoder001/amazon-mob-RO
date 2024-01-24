@@ -94,19 +94,9 @@ const prodName = "Iphone 15 Pro";
 
 const data = [
 	{
-		name: "Carlos Cruz",
+		name: "Daniel Munteanu",
 
-		address: "España",
-
-		desc: `${prodName}`,
-
-		img: `${prodImg}`,
-	},
-
-	{
-		name: "Juan Rodriguez",
-
-		address: "España",
+		address: "România",
 
 		desc: `${prodName}`,
 
@@ -114,19 +104,9 @@ const data = [
 	},
 
 	{
-		name: "Luis Torres",
+		name: "Marius Mocian",
 
-		address: "España",
-
-		desc: `${prodName}`,
-
-		img: `${prodImg}`,
-	},
-
-	{
-		name: "Miguel Ortiz",
-
-		address: "España",
+		address: "România",
 
 		desc: `${prodName}`,
 
@@ -134,9 +114,29 @@ const data = [
 	},
 
 	{
-		name: "José Sánchez",
+		name: "Ciobanu Hili",
 
-		address: "España",
+		address: "România",
+
+		desc: `${prodName}`,
+
+		img: `${prodImg}`,
+	},
+
+	{
+		name: "Vasile Ion",
+
+		address: "România",
+
+		desc: `${prodName}`,
+
+		img: `${prodImg}`,
+	},
+
+	{
+		name: "Ion Lică",
+
+		address: "România",
 
 		desc: `${prodName}`,
 
