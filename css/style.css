@@ -522,7 +522,7 @@
 
 .spinner::before {
     font-size: 16px;
-    content: 'Amazon';
+    content: 'Loading';
     position: absolute;
     top: 50%;
     left: 50%;

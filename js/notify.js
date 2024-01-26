@@ -42,7 +42,7 @@ class Notify {
 
             <div class="notification__subtitle">\n
 
-              <span>${getRandomNumber(10, 59)} hace segundos</span>\n
+              <span>${getRandomNumber(10, 59)} secunde în urmă</span>\n
 
               <img class="notification__checkmark" src="./assets/notification-ok.svg" alt="">\n
 
