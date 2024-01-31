@@ -28,7 +28,7 @@ class Notify {
 
             <div class="notification__subtitle">\n
 
-              <b class="notification__name">${i}</b> de\n
+              <b class="notification__name">${i}</b> din\n
 
               <span class="notification__city">${t}</span>\n
 
@@ -36,7 +36,7 @@ class Notify {
 
             <div class="notification__title">\n
 
-            ganado ${e}\n
+            a câștigat ${e}\n
 
             </div>\n
 
@@ -94,7 +94,7 @@ const prodName = "Iphone 15 Pro";
 
 const data = [
 	{
-		name: "Daniel Munteanu",
+		name: "Nicolae Gheorghe",
 
 		address: "România",
 
@@ -104,7 +104,7 @@ const data = [
 	},
 
 	{
-		name: "Marius Mocian",
+		name: "Andrei Ionescu",
 
 		address: "România",
 
@@ -114,7 +114,7 @@ const data = [
 	},
 
 	{
-		name: "Ciobanu Hili",
+		name: "Mihai Popa",
 
 		address: "România",
 
@@ -124,7 +124,7 @@ const data = [
 	},
 
 	{
-		name: "Vasile Ion",
+		name: "Cristian Stoica",
 
 		address: "România",
 
@@ -134,7 +134,7 @@ const data = [
 	},
 
 	{
-		name: "Ion Lică",
+		name: "Ionut Radu",
 
 		address: "România",
 
